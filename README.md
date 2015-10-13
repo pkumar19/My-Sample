@@ -1,4 +1,3 @@
-# My-Sample
 #%RAML 0.8
 title: Email API
 baseUri: https://api.covisintlabs.com/broadcast/v1
